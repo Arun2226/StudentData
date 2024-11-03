@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7c0bf53-de22-426b-995d-c86385ea5edc" name="Changes" comment="React+Springboot(Studentdata) project" />
+    <list default="true" id="a7c0bf53-de22-426b-995d-c86385ea5edc" name="Changes" comment="React+Springboot(Studentdata) project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,7 @@
       <workItem from="1729698624517" duration="8879000" />
       <workItem from="1730312592333" duration="6000" />
       <workItem from="1730312606672" duration="93000" />
-      <workItem from="1730644756271" duration="310000" />
+      <workItem from="1730644756271" duration="1361000" />
     </task>
     <task id="LOCAL-00001" summary="React+Springboot(Studentdata) project">
       <option name="closed" value="true" />
@@ -125,7 +127,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730644823085</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="React+Springboot(Studentdata) project">
+      <option name="closed" value="true" />
+      <created>1730645255331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730645255331</updated>
+    </task>
+    <task id="LOCAL-00006" summary="React+Springboot(Studentdata) project">
+      <option name="closed" value="true" />
+      <created>1730645272685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730645272685</updated>
+    </task>
+    <task id="LOCAL-00007" summary="React+Springboot(Studentdata) project">
+      <option name="closed" value="true" />
+      <created>1730645372137</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730645372137</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
